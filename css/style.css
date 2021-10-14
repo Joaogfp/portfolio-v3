@@ -219,6 +219,10 @@ body {
   cursor: pointer;
 }
 
+#btnmodl:hover {
+  background-color: #0f5708;
+}
+
 .conteudoM a:hover {
   color:#0f5708;
 }
